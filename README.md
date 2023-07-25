@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angi2323
+- 👋 Hi, I’m Jim Teachout
 - 👀 I’m interested in furthering my education.
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on other projects to learn more.
